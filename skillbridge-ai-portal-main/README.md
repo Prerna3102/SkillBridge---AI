@@ -45,15 +45,13 @@ Frontend
 - React
 - TypeScript
 - TanStack Router
-- Vite
 - Tailwind CSS
-- shadcn/ui
+
 
 Backend
 
 - Python
 - Flask
-- Flask-CORS
 - Google Gemini API
 
 Database
@@ -134,12 +132,12 @@ SkillBridge AI was developed as a placement-readiness platform to help students 
 
 👩‍💻 Author
 
-Prerna S.
+Prerna Suryawanshi
 
 B.Tech Information Technology
 
 📌 Project Status
 
-Completed / Under Development
+ Under Development
 
 The project is being continuously improved with additional AI-powered career and placement features.
